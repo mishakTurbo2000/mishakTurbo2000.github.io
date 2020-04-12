@@ -116,6 +116,10 @@ a.expand:hover {
 	height: 500px;
 }
 
+.icons {
+	size: 32px;
+}
+
 .help_with_site {
 	text-align: left;
 	align-self: start;
