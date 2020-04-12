@@ -69,6 +69,10 @@ body {
 	font: 12px/18px Arial, sans-serif;
 }
 
+a, li{
+	text-align: center;
+}
+
 .m {
 	font-size: 50%;
 	font-family: 'Comic Sans MS';
@@ -86,7 +90,10 @@ body {
 	background-color: rgb(201, 20, 218);
 	font-size: 70%;
 }
-#navbar li { display: inline; }
+#navbar li { 
+	display: inline;
+	text-align: center;
+}
 #navbar a {
   color: #fff;
   padding: 5px 10px;
