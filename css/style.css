@@ -121,6 +121,8 @@ a.expand:hover {
 }
 
 .help_with_site {
+	size: 150%;
+	font-family: 'Comic Sans MS';
 	text-align: left;
 	align-self: start;
 }
